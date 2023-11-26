@@ -9,16 +9,16 @@
     > h1 - Elemento que define titulo grande
     > p - Elemento que define um parágrafo
     > img - propriedade inserção de imagem, propriedade pode ser o caminho no caso src="imagem.png"
-    > img propriedade alt="nome da imagem" - Se refere a nome da imagem, caso nao carregue visualmente.
+    > img propriedade alt="nome da imagem" - Se refere ao nome da imagem, caso não carregue visualmente.
     > lang="pt-br" - Elemento de linguagem do projeto
     > charset="UTF-8" - Unicode de caracteres
     > name="viewport" content="width=device-width, initial-scale=1.0" - dispositivo que esta acessando a pagina e a escala e largura baseada que esta sendo aberto o projeto
     > a - Tag Âncora
-    > a href="https://" - serve para inserir link de refererência
+    > a href="https://" - serve para inserir link de referência
 
-## Tópico II -Estrutura de HTML para criação de uma página
+## Tópico II - Estrutura de HTML para criação de uma página
 
-    > !DOCTYPE html>
+    > !DOCTYPE html> 
     > html lang="pt-br">
     > head>
     >    meta charset="UTF-8">
@@ -28,6 +28,6 @@
     > body>
     >    header>/header> Menu/ Cabeçalho
     >    main>/main> Conteúdo principal
-    >    footer>/footer> Rodapé da pagina    
+    >    footer>/footer> Rodapé da página    
     > /body>
     > /html>

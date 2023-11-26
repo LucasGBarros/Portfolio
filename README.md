@@ -16,6 +16,6 @@ Dentro do curso de HTML e CSS, eu aprendi neste 1º módulo:
     > Acessar a Developer Tools (Ferramentas para Desenvolvedores) de um navegador;
     > Quirks mode (modo peculiaridade);
     > Utilizar extensões no Visual Studio Code (Live Server por exemplo).
-    >Como consultar o layout do projeto no Figma;
-    >Escrever o código base do arquivo HTML, usando as tags semânticas que fazem parte da estrutura básica do arquivo;
-    >A função de cada tag meta.
+    > Como consultar o layout do projeto no Figma;
+    > Escrever o código base do arquivo HTML, usando as tags semânticas que fazem parte da estrutura básica do arquivo;
+    > A função de cada tag meta.
