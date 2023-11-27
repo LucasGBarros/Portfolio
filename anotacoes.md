@@ -1,4 +1,4 @@
-## Anotações sobre HTML
+## Anotações sobre HTML + CSS
 
 ## Tópico I - Entendendo elementos do HTML
     
