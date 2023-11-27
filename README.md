@@ -2,11 +2,14 @@
 
 Seja bem-vindo(a) ao meu GitHub!👋
 
-Dentro do curso de HTML e CSS, eu aprendi neste 1º módulo:
+Dentro do curso de HTML e CSS terá módulos de aprendizados, sendo eles:
 
+## Módulo I:
     > Diferenciar a criação de um arquivo no Google Docs e no HTML;
     > Fazer download e instalar o Visual Studio Code;
     > Criar pasta e abrir no editor de código.
+    
+## Módulo II:  
     > A importância da documentação W3S;
     > O que é HTML e porque é considerada uma linguagem de marcação;
     > Estruturar um documento HTML com tags e elementos;
@@ -16,6 +19,23 @@ Dentro do curso de HTML e CSS, eu aprendi neste 1º módulo:
     > Acessar a Developer Tools (Ferramentas para Desenvolvedores) de um navegador;
     > Quirks mode (modo peculiaridade);
     > Utilizar extensões no Visual Studio Code (Live Server por exemplo).
+    
+## Módulo III:
     > Como consultar o layout do projeto no Figma;
     > Escrever o código base do arquivo HTML, usando as tags semânticas que fazem parte da estrutura básica do arquivo;
+
+## Módulo IV - o que aprendi: 
     > A função de cada tag meta.
+    > O que é CSS (Cascading Style Sheets);
+    > Estilização na prática;
+    > Propriedades CSS;
+    > Criar um arquivo externo para estilizar a página;
+    > Integrar o arquivo CSS ao arquivo HTML.
+
+## Módulo V:
+    > Utilizar as cores no CSS;
+    > Utilizar as cores hexadecimais no CSS;
+    > Utilizar paleta de cores de terceiros;
+    > Alterar as cores de fundo e dos textos;
+    > Extrair a cor do Figma para utilizar no CSS;
+    > Destacar o texto e alterar a cor do texto em destaque.
