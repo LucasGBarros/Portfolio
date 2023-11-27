@@ -1,12 +1,12 @@
 # Seja bem-vindo(a) ao meu GitHub!👋 
 
-# Neste repositório, estarei inserindo meus conhecimentos e tudo que aprendi no curso de HTML e CSS através da plataforma ALURA.
+## Neste repositório, estarei inserindo meus conhecimentos e tudo que aprendi no curso de HTML e CSS através da plataforma ALURA.
 
 
 Dentro do curso de HTML e CSS terá módulos de aprendizados de uma trilha de curso voltado para Front-end, sendo eles:
 
-    * HTML e CSS: Ambiente e desenvolvimento, estrutura de arquivo e tags;
-    * HTML e CSS: Classes, posicionamento e Flexbox
+    - HTML e CSS: Ambiente e desenvolvimento, estrutura de arquivo e tags;
+    - HTML e CSS: Classes, posicionamento e Flexbox
 
 ## Curso de HTML e CSS: Ambiente e desenvolvimento, estrutura de arquivo e tags
 
