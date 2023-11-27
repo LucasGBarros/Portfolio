@@ -9,12 +9,12 @@ Dentro do curso de HTML e CSS, há módulos de aprendizado de uma trilha voltada
 
 ## Curso de HTML e CSS: Ambiente e desenvolvimento, estrutura de arquivo e tags
 
-- **Módulo I:**
+### Módulo I:
     > Diferenciar a criação de um arquivo no Google Docs e no HTML;
     > Fazer download e instalar o Visual Studio Code;
     > Criar pasta e abrir no editor de código.
 
-- **Módulo II:**
+### Módulo II:
     > A importância da documentação W3S;
     > O que é HTML e por que é considerada uma linguagem de marcação;
     > Estruturar um documento HTML com tags e elementos;
@@ -25,19 +25,19 @@ Dentro do curso de HTML e CSS, há módulos de aprendizado de uma trilha voltada
     > Quirks mode (modo peculiaridade);
     > Utilizar extensões no Visual Studio Code (Live Server, por exemplo).
 
-- **Módulo III:**
+### Módulo III:
     > Como consultar o layout do projeto no Figma;
     > Escrever o código base do arquivo HTML, usando as tags semânticas que fazem parte da estrutura básica do arquivo;
 
-- **Módulo IV:**
+### Módulo IV:
     > A função de cada tag meta.
     > O que é CSS (Cascading Style Sheets);
     > Estilização na prática;
     > Propriedades CSS;
     > Criar um arquivo externo para estilizar a página;
     > Integrar o arquivo CSS ao arquivo HTML.
-
-- **Módulo V:**
+    
+### Módulo V:
     > Utilizar as cores no CSS;
     > Utilizar as cores hexadecimais no CSS;
     > Utilizar paleta de cores de terceiros;
@@ -47,7 +47,7 @@ Dentro do curso de HTML e CSS, há módulos de aprendizado de uma trilha voltada
 
 ## Curso HTML e CSS: Classes, posicionamento e Flexbox
 
-- **Módulo I:**
+### Módulo I:
     > Utilizar classes no HTML e CSS;
     > Boas práticas na criação das classes;
     > Posicionamento de elementos com CSS;
