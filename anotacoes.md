@@ -41,4 +41,10 @@
         > background-color - cor de fundo
         > color - cor de texto
             > Dentro de color, podemos inserir palavras chaves de cores, inserindo um caracter especial "#" + paleta de cor
+    > margin - margem do site, recebendo o valor = 0, ele nao tem margem
+    > padding - antes do campo body, temos um campo chamado padding que remete ao preenchimento de cada elemento.
+    > heigth - Definindo altura do site = 100vh (vh = viewport heigth) ou seja, utilizando 100% da tela
+    > box-sizing - remete que a imagem, ou algum campo deva ficar dentro do elemento pai, neste caso "body"
+    > flexbox - ele colocará os elementos no sentido de linha, porém, é algo configurado e pode estar como coluna. Conhecido com Flex-direction.
+    > align-items - alinhamento de linhas, onde compõe alguns elementos como flex-start | flex-end | center e afins.
     
