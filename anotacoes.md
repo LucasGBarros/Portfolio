@@ -53,6 +53,8 @@
     > font-family - Fonte importada sendo utilizada no elemento font-family.
     > div - divisão de agrupamentos de elementos.
     > text-align - manipulação de texto, no caso, center (centro).
-    > boder-radius - raio do arredondamento da borda
-    > text-decoration - retirando decoração de LINK (texto sublinhado)
-    > font-weigth - peso da fonte
+    > boder-radius - raio do arredondamento da borda.
+    > text-decoration - retirando decoração de LINK (texto sublinhado).
+    > font-weigth - peso da fonte.
+    > flex-direction - indicação de caixas ordenadas. 
+    > gap - espaçamento de elementos filhos.
