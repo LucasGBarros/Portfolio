@@ -68,3 +68,13 @@
     > gap - espaçamento de elementos filhos.
     > boder - inserindo uma borda com elemento solid + cor. Porém, existe mais estilos de bordas no W3S.
     > hover - Elemento chamado para personalizaçaõ de cor ou ação de um seletor com elemento hover
+
+### Criando Variáveis de CSS:
+
+    > :root {
+        --nome-variavel: [insira o valor desejado]
+    }
+
+    .elemento {
+        font-size: var(--nome-variavel)
+    }
