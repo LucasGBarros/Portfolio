@@ -18,8 +18,8 @@ Dentro do curso de HTML e CSS, há módulos de aprendizado de uma trilha voltada
     > A importância da documentação W3S;
     > O que é HTML e por que é considerada uma linguagem de marcação;
     > Estruturar um documento HTML com tags e elementos;
-    > A utilidade da introdução `<!DOCTYPE html>`;
-    > Diferença entre a metainformação presente no `<head>` e o conteúdo presente no `<body>` de uma página HTML;
+    > A utilidade da introdução <!DOCTYPE html>;
+    > Diferença entre a metainformação presente no <head> e o conteúdo presente no <body> de uma página HTML;
     > Criar textos alternativos (alts) para uma imagem;
     > Acessar a Developer Tools (Ferramentas para Desenvolvedores) de um navegador;
     > Quirks mode (modo peculiaridade);
@@ -36,7 +36,7 @@ Dentro do curso de HTML e CSS, há módulos de aprendizado de uma trilha voltada
     > Propriedades CSS;
     > Criar um arquivo externo para estilizar a página;
     > Integrar o arquivo CSS ao arquivo HTML.
-    
+
 ### Módulo V:
     > Utilizar as cores no CSS;
     > Utilizar as cores hexadecimais no CSS;
@@ -56,4 +56,5 @@ Dentro do curso de HTML e CSS, há módulos de aprendizado de uma trilha voltada
     > Box model (margin, border e padding);
     > Diferentes seletores CSS.
 
-- **Módulo II:**
+### Módulo II:
+    >
