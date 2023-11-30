@@ -57,4 +57,10 @@ Dentro do curso de HTML e CSS, há módulos de aprendizado de uma trilha voltada
     > Diferentes seletores CSS.
 
 ### Módulo II:
-    >
+    > Padrões de projetos CSS com height e box-sizing;
+    > Unidade Viewport;
+    > Hierarquia entre elementos pai e filho;
+    > Formas e parâmetros de posicionamento;
+    > Flexbox.
+
+### Módulo III:
