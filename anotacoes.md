@@ -58,3 +58,5 @@
     > font-weigth - peso da fonte.
     > flex-direction - indicação de caixas ordenadas. 
     > gap - espaçamento de elementos filhos.
+    > boder - inserindo uma borda com elemento solid + cor. Porém, existe mais estilos de bordas no W3S.
+    
