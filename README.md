@@ -27,8 +27,9 @@ Acesse o link do repositório: [Portfólio](https://github.com/LucasGBarros/Port
 
 2. Abra a pasta do projeto no VSCode:
 
-    ```cd Portfolio```
-    ```code .```
+    `` `cd Portfolio
+    code .
+ `` ` 
 
 3. No canto inferior direito do VSCode, você verá "Go Live" na barra de status. Clique nele.
 
