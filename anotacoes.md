@@ -22,14 +22,22 @@
     > !DOCTYPE html> 
     > html lang="pt-br">
     > head>
-    >    meta charset="UTF-8">
-    >    meta name="viewport" content="width=device-width, initial-scale=1.0"
-    >    title>Nome do Projeto /title>
-    >   /head>
-    > body>
-    >    header>/header> Menu/ Cabeçalho
-    >    main>/main> Conteúdo principal
-    >    footer>/footer> Rodapé da página    
+    >    <meta charset="UTF-8">
+    >    <meta name="viewport" content="width=device-width, initial-scale=1.0"
+    >    <title>Nome do Projeto /title>
+    >   </head>
+    > <body>
+    >    <header>       Menu/ Cabeçalho
+    >       <nav></nav> navegador
+    >    </header> 
+    >    <main> Conteúdo principal
+    >       <section> seção
+    >           <div></div>
+    >       </section>
+    >    </main> 
+    >    <footer> Rodapé da página
+    >       <p></p> Paragrafo
+    >    </footer>     
     > /body>
     > /html>
 
