@@ -78,3 +78,8 @@ Dentro do curso de HTML e CSS, há módulos de aprendizado de uma trilha voltada
     > Identificar o espaçamento no Figma;
     > Retirar o sublinhado com o text-decoration;
     > Arredondar bordas com border-radius.
+
+### Módulo V:
+    > Definir espaçamento vertical e horizontal;
+    > Posicionar os elementos em coluna com Flexbox;
+    > Utilizar o recurso Gap para espaçar cada elemento filho.
