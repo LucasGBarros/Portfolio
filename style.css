@@ -54,6 +54,9 @@ body {
 }
 
 .apresentacao__links__link {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
     width: 378px;
     text-align: center;
     border-radius: 8px;
@@ -66,7 +69,17 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+.apresentacao__links__link:hover {
+    background-color: #272727;
+    /* padding: 3%; Ação de preenchimento de botão*/
+}
+
 .imagem {
     width: 488px;
     height: 550px;
+}
+
+.instagram {
+    width: 30px;
+    height: 30px;
 }
