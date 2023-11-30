@@ -47,4 +47,7 @@
     > box-sizing - remete que a imagem, ou algum campo deva ficar dentro do elemento pai, neste caso "body"
     > flexbox - ele colocará os elementos no sentido de linha, porém, é algo configurado e pode estar como coluna. Conhecido com Flex-direction.
     > align-items - alinhamento de linhas, onde compõe alguns elementos como flex-start | flex-end | center e afins.
-    
+    > section - criando uma seção separada da imagem.
+    > width - definindo largura do texto 
+    > font-size - Tamanho do título ou tamanho de texto
+    > font-family - Fonte importada sendo utilizada no elemento font-family.
