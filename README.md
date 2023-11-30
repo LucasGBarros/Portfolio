@@ -73,4 +73,8 @@ Dentro do curso de HTML e CSS, há módulos de aprendizado de uma trilha voltada
     > Importar fontes com Google Fonts.
 
 ### Módulo IV:
-
+    > Posicionar e estilizar botões;
+    > Criar e utilizar divisões (divs) no projeto;
+    > Identificar o espaçamento no Figma;
+    > Retirar o sublinhado com o text-decoration;
+    > Arredondar bordas com border-radius.
