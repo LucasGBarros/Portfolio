@@ -6,6 +6,38 @@ Dentro do curso de HTML e CSS, há módulos de aprendizado de uma trilha voltada
 
 - HTML e CSS: Ambiente e desenvolvimento, estrutura de arquivo e tags;
 - HTML e CSS: Classes, posicionamento e Flexbox
+- HTML e CSS: cabeçalho, footer e variáveis CSS
+
+## INSTRUÇÕES PARA EXECUÇÃO DO SITE:
+
+- Para executar este projeto localmente, siga os passos abaixo:
+
+### Pré-requisitos
+
+Certifique-se de ter o Visual Studio Code instalado e a extensão Live Server.
+
+### Passos
+
+Acesse o link do repositório: [Portfólio](https://github.com/LucasGBarros/Portfolio.git)
+
+
+1. Clone este repositório: 
+
+    ```git clone https://github.com/LucasGBarros/Portfolio.git```
+
+2. Abra a pasta do projeto no VSCode:
+
+    ```cd Portfolio```
+    ```code .```
+
+3. No canto inferior direito do VSCode, você verá "Go Live" na barra de status. Clique nele.
+
+4. O Visual Studio Code abrirá automaticamente seu navegador padrão exibindo o seu portfólio.
+
+Isso iniciará o servidor ao vivo e permitirá que você visualize o seu portfólio localmente.
+
+**Observação:** 
+Certifique-se de que o arquivo que deseja visualizar, por exemplo, index.html, está aberto no VSCode antes de clicar em "Go Live".
 
 ## Curso de HTML e CSS: Ambiente e desenvolvimento, estrutura de arquivo e tags
 
@@ -83,3 +115,7 @@ Dentro do curso de HTML e CSS, há módulos de aprendizado de uma trilha voltada
     > Definir espaçamento vertical e horizontal;
     > Posicionar os elementos em coluna com Flexbox;
     > Utilizar o recurso Gap para espaçar cada elemento filho.
+
+## Curso HTML e CSS: cabeçalho, footer e variáveis CSS
+
+### Módulo I:
