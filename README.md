@@ -10,7 +10,7 @@ Dentro do curso de HTML e CSS, há módulos de aprendizado de uma trilha voltada
 
 ## INSTRUÇÕES PARA EXECUÇÃO DO SITE:
 
-- Para executar este projeto localmente, siga os passos abaixo:
+Para executar este projeto localmente, siga os passos abaixo:
 
 ### Pré-requisitos
 
@@ -28,7 +28,7 @@ Acesse o link do repositório: [Portfólio](https://github.com/LucasGBarros/Port
 2. Abra a pasta do projeto no VSCode:
 
     ```cd Portfolio```
-    
+
     ```code .```
 
 3. No canto inferior direito do VSCode, você verá "Go Live" na barra de status. Clique nele.
@@ -120,3 +120,8 @@ Certifique-se de que o arquivo que deseja visualizar, por exemplo, index.html, e
 ## Curso HTML e CSS: cabeçalho, footer e variáveis CSS
 
 ### Módulo I:
+    > Funciona a atualização do layout de um projeto no Figma;
+    > Posicionar os botões conforme o novo layout através do display: flex;
+    > Fazer a estilização dos botões conforme o novo layout.
+
+### Módulo II:
