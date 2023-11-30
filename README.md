@@ -130,3 +130,11 @@ Certifique-se de que o arquivo que deseja visualizar, por exemplo, index.html, e
     > Estilizar elementos ao passar o mouse sobre eles com o seletor hover.
 
 ### Módulo III:
+    > Criar e fazer a estilização do footer da página;
+    > Criar o header da página;
+    > Aplicar os links de navegação através da tag <nav>.
+
+## Módulo IV:
+    > Fazer a estilização do header do portfólio;
+    > Criar a nova página HTML “Sobre mim”;
+    > Desenvolver a navegação entre as páginas “Home” e “Sobre mim”.
