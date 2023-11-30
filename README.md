@@ -125,3 +125,8 @@ Certifique-se de que o arquivo que deseja visualizar, por exemplo, index.html, e
     > Fazer a estilização dos botões conforme o novo layout.
 
 ### Módulo II:
+    > Adicionar ícones aos links clicáveis;
+    > Alinhar elementos com justify-content;
+    > Estilizar elementos ao passar o mouse sobre eles com o seletor hover.
+
+### Módulo III:
