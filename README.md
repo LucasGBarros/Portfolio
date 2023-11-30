@@ -134,7 +134,12 @@ Certifique-se de que o arquivo que deseja visualizar, por exemplo, index.html, e
     > Criar o header da página;
     > Aplicar os links de navegação através da tag <nav>.
 
-## Módulo IV:
+### Módulo IV:
     > Fazer a estilização do header do portfólio;
     > Criar a nova página HTML “Sobre mim”;
     > Desenvolver a navegação entre as páginas “Home” e “Sobre mim”.
+
+### Módulo V:
+    > Adicionar conteúdo a uma nova página;
+    > O que são variáveis CSS;
+    > Como customizar o projeto aplicando variáveis CSS.
